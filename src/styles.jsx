@@ -187,6 +187,11 @@ export const ContainerTask = styled.div`
     border-top: 1px solid var(--gray-400);
     border-radius: 8px;
     padding-top: 4rem;
+
+    @media only screen and (max-width: 900px){
+        width: 75%;
+    }
+
 `
 
 export const TextTask = styled.div`
