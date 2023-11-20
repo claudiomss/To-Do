@@ -54,7 +54,7 @@ O projeto **ToDo** é um gerenciador de tarefas diário. O usuário pode adicion
 Clone o projeto em sua máquina: 
 
 ```
-https://github.com/claudiomss/To-Do.git
+git clone https://github.com/claudiomss/To-Do.git
 ```
 Instale as dependências:
 
