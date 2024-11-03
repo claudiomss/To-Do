@@ -22,7 +22,7 @@
 <a id="1-Descrição-do-projeto"></a>
 ##  :memo: Descrição do projeto 
 
-O projeto **ToDo** é um gerenciador de tarefas diário. O usuário pode adicionar, excluir e concluir as tarefas descritas.
+O projeto ToDo é um gerenciador de tarefas diário que ajuda o usuário a organizar suas atividades. Com uma interface simples, permite adicionar, excluir e marcar tarefas como concluídas, oferecendo uma maneira prática de acompanhar o progresso diário.
 
 ---
 <a id="2-Funcionalidades"></a>
